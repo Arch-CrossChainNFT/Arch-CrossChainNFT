@@ -30,13 +30,12 @@ Here is the sequence diagram illustrating the CrossChainNFT project:
 - **Vercel**: Frontend deployment.
 
 ## Installation and Setup
-1. Clone the repository: `git clone https://github.com/your-repo/crosschainnft`
+1. Clone the repository: `https://github.com/Arch-CrossChainNFT/Arch-CrossChainNFT.git`
 2. Navigate to the project directory: `cd crosschainnft`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
-## Deployment
-- The frontend is deployed on Vercel and can be accessed [here](https://crosschainnft.vercel.app).
+
 
 ## Contributing
 We welcome contributions from the community. Please follow these steps to contribute:
@@ -49,13 +48,11 @@ We welcome contributions from the community. Please follow these steps to contri
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions or inquiries, please reach out to us at [contact@crosschainnft.com](mailto:contact@crosschainnft.com).
 
 ## Acknowledgements
 Special thanks to the Archway management team for their support and to the developer community for their collaboration.
 
----
+
 
 ## Project Inspiration
 With the increasing popularity of NFTs and the growing ecosystem of the Cosmos network, there was a clear need for a unified platform to trade NFTs across various chains. By leveraging the low fees and sustainability of Archway, we aimed to create a marketplace that not only addresses this need but also fosters the growth and adoption of NFTs in the Cosmos ecosystem. Our goal is to provide users with a seamless and efficient trading experience, contributing to the overall development of the blockchain space.

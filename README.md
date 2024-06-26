@@ -3,12 +3,27 @@
 ## Introduction
 CrossChainNFT is a marketplace for NFTs built on the Archway platform. It allows users to publish, buy, and sell NFTs across various Cosmos chains using Wrapped tokens. The platform is designed to be sustainable and have low fees, fostering the growth of the Cosmos NFT ecosystem.
 
+# Project Title
+
+## Description
+
+Brief description of your project.
+
+## Presentation
+
+[Click here to view the CrossChainNFT presentation](https://www.youtube.com/watch?v=mKxyUTNlUlg&t=1s)
+
+## Other Sections
+
+Additional information about your project.
+
+
 ## Sequence Diagram
 Here is the sequence diagram illustrating the CrossChainNFT project:
 
 
 ![CrossChainNFT Sequence Diagram](https://github.com/samarabdelhameed/pics/blob/main/Arch-CrossChainNFT.png)
-![CrossChainNFT persentation ](https://www.youtube.com/watch?v=mKxyUTNlUlg&t=1s)
+
 
 ## Features
 - **Easy NFT Publication**: Users can publish NFTs by filling out a simple form.

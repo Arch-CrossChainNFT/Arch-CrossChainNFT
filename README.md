@@ -6,8 +6,9 @@ CrossChainNFT is a marketplace for NFTs built on the Archway platform. It allows
 ## Sequence Diagram
 Here is the sequence diagram illustrating the CrossChainNFT project:
 
-![CrossChainNFT Sequence Diagram](https://github.com/samarabdelhameed/pics/blob/main/Arch-CrossChainNFT.png)
 
+![CrossChainNFT Sequence Diagram](https://github.com/samarabdelhameed/pics/blob/main/Arch-CrossChainNFT.png)
+![CrossChainNFT persentation ](https://www.youtube.com/watch?v=mKxyUTNlUlg&t=1s)
 
 ## Features
 - **Easy NFT Publication**: Users can publish NFTs by filling out a simple form.
